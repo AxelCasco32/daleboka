@@ -1,7 +1,7 @@
 var index = 1 
 while (index < 10)  {
     if (index%2==0)
-    console.log ("el numero es  " + index + " es par")
+    console.log ("el numero esasdfasdf  " + index + " es par")
     alert ("el valor de index es: " + index)
     index++
 }
